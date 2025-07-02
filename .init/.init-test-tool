@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/fastreact-tictactoe-35586-bea733a5/tic_tac_toe_backend"
+}
